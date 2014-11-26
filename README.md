@@ -1,4 +1,4 @@
-#Neovim Node RPC/Plugin :ibrary
+#Neovim Node RPC/Plugin Library
 
 ### Install
 `npm install neovim`
